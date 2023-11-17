@@ -1,39 +1,42 @@
-<p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFl2W7aFZOI8A/profile-displayphoto-shrink_400_400/0/1613341042619?e=1637193600&v=beta&t=ignacio-alonso-linares" alt="Ignacio Alonso Linares" width="200"/>
-</p>
 
-<h1 align="center">Ignacio Alonso López-Linares</h1>
 
-## 👋 Introduction
+<h1 align="center">Sup, I am Ignacio ;D </h1>
 
-Hello there! I'm Ignacio Alonso López-Linares, a Software Engineer based in Spain. Welcome to my GitHub profile!
+## 👋 Hello there!
+
+I'm Ignacio Alonso López-Linares, a consultant specializing in Data Analytics and AI. 
+I am currently based in Madrid, Spain. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-I am passionate about software development and creating innovative solutions. My journey in the tech world started a few years ago, and I have been actively contributing to various projects and teams. I love diving into complex problems and believe in the power of technology to make a positive impact.
+I am passionate about bringing data and business together by creating innovative solutions. 
+I started my journey....
 
 ## 💼 Professional Experience
-
-- Software Engineer at [Your Current Company]
-- Previously at [Your Previous Company/Companies]
+- Sci-tech student at IE School of Science and Technology. ![Company Logo](https://img.shields.io/badge/IE_Scitech-yellow?logo=IEBusinessSchool)
+- Ex-Strategy & Consulting Consultant at ![Company Logo](https://img.shields.io/badge/Accenture-purple?logo=Accenture)
+, developing complex SQL dashboards in Google Cloud Platform
+- Previously at ![Company Logo](https://img.shields.io/badge/PwC-orange?logo=PricewaterhouseCoopers)
 
 ## 🌱 I’m currently learning
 
 I'm always eager to expand my knowledge. Currently, I'm diving into the latest advancements in web development and exploring new tools and frameworks to enhance my skills.
 
 ## 🛠️ Skills
+Languages: ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=SQL)
 
-- Full-stack Development
-- JavaScript (React, Node.js)
-- Python
-- Database Management (SQL, MongoDB)
-- ...
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)
+
+Google Cloud Platform: ![BigQuery](https://img.shields.io/badge/-BigQuery-blue?logo=Google%20BigQuery) ![Looker](https://img.shields.io/badge/-Looker%20Studio-blue?logo=Looker) ![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-blue?logo=Google%20Cloud%20Storage)
 
 ## 📫 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ignacio-alonso-linares/) or drop me an email at [Your Email Address]. I'm always open to interesting conversations and collaborations.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ignacio-alonso-linares/). I'm always open to interesting conversations and collaborations.
 
 ## 🌐 Projects
-- 
 
-Looking forward to connecting with fellow developers, enthusiasts, and anyone who shares similar interests! 😊
+**Project 1: Madrid Electric Rental Bikes Analysis & Clustering**
+
+
+Looking forward to connecting with fellow developers, enthusiasts, and anyone who shares similar interests!
