@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Sup, I am Ignacio ;D </h1>
+<h1 align="center">Hi, I am Ignacio </h1>
 
 ## 👋 Hello there!
 
@@ -10,7 +10,14 @@ I am currently based in Madrid, Spain. Welcome to my GitHub profile!
 ## 🚀 About Me
 
 I am passionate about bringing data and business together by creating innovative solutions. 
-I started my journey....
+My journey starts at 13 years old when I received my first computer:
+- Initially, I became interested in pen-testing, cybersecurity, and rooting phones. Later, I learned a bit about graphic design on Adobe Suite and video-editing.
+- At age 18, I started Business Administration with a specialization in Finance at Comillas.
+- At age 21, at the University of Michigan and as an exchange student, I learned R and how to use data science and apply it to organizations to solve problems
+- That summer, I began working at PwC where I was involved in many financial due diligence processes.
+- Upon graduation, I won an award for the Best Data Science project, which discussed more efficient methods using clustering to organize bikes in Madrid's Bike Rental System, BiciMAD.
+- After ending my degree, I started at Accenture where I worked for media and telecom companies automating and deploying dashboards using Google Cloud Platform.
+- Now, I am a student at IE's School of Science and Technology. We always can learn something more ;D
 
 ## 💼 Professional Experience
 - Sci-tech student at IE School of Science and Technology. ![Company Logo](https://img.shields.io/badge/IE_Scitech-yellow?logo=IEBusinessSchool)
