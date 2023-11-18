@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQFZW4FCKQj3Qw/profile-displayphoto-shrink_200_200/0/1686959115904?e=1705536000&v=beta&t=q0fVzQUJrJe7i5602ZC4OC2QM2xhLfxDYIDEX9YK4kM" alt="Your Name" width="100" height="100" style="border-radius: 50%; overflow: hidden;">
+  <img src="https://media.licdn.com/dms/image/D4D03AQFZW4FCKQj3Qw/profile-displayphoto-shrink_200_200/0/1686959115904?e=1705536000&v=beta&t=q0fVzQUJrJe7i5602ZC4OC2QM2xhLfxDYIDEX9YK4kM" alt="Your Name" width="150" height="150" style="border-radius: 50%; overflow: hidden;">
 </p>
 
 
@@ -25,9 +25,11 @@ My journey starts at 13 years old when I received my first computer:
 - Now, I am a student at IE's School of Science and Technology. We always can learn something more ;D
 
 ## 💼 Professional Experience
-1. Sci-tech student at IE School of Science and Technology. ![Company Logo](https://img.shields.io/badge/IE_Scitech-yellow?logo=IEBusinessSchool)
-2. Ex-Strategy & Consulting Consultant at ![Company Logo](https://img.shields.io/badge/Accenture-purple?logo=Accenture), developing complex SQL dashboards in Google Cloud Platform
-3. Previously at ![Company Logo](https://img.shields.io/badge/PwC-orange?logo=PricewaterhouseCoopers)
+2023/2024 - Sci-tech student at IE School of Science and Technology. ![Company Logo](https://img.shields.io/badge/IE_Scitech-yellow?logo=IEBusinessSchool)
+
+2020/2023 - Ex-Strategy & Consulting Consultant at ![Company Logo](https://img.shields.io/badge/Accenture-purple?logo=Accenture), developing complex SQL dashboards in Google Cloud Platform
+
+2019 - Previously at ![Company Logo](https://img.shields.io/badge/PwC-orange?logo=PricewaterhouseCoopers)
 
 ## 🌱 I’m currently learning
 
