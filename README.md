@@ -1,9 +1,12 @@
-![Your Name](https://media.licdn.com/dms/image/D4D03AQFZW4FCKQj3Qw/profile-displayphoto-shrink_200_200/0/1686959115904?e=1705536000&v=beta&t=q0fVzQUJrJe7i5602ZC4OC2QM2xhLfxDYIDEX9YK4kM)
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D03AQFZW4FCKQj3Qw/profile-displayphoto-shrink_200_200/0/1686959115904?e=1705536000&v=beta&t=q0fVzQUJrJe7i5602ZC4OC2QM2xhLfxDYIDEX9YK4kM" alt="Your Name" width="100" height="100" style="border-radius: 50%; overflow: hidden;">
+</p>
 
 
 <h1 align="center">Hi, I am Ignacio </h1>
 
-## 👋 Hello there!
+## 👋 Hello there! General Kenobi!
 
 I'm Ignacio Alonso López-Linares, a consultant specializing in Data Analytics and AI. 
 I am currently based in Madrid, Spain. Welcome to my GitHub profile!
@@ -11,6 +14,7 @@ I am currently based in Madrid, Spain. Welcome to my GitHub profile!
 ## 🚀 About Me
 
 I am passionate about bringing data and business together by creating innovative solutions. 
+
 My journey starts at 13 years old when I received my first computer:
 - Initially, I became interested in pen-testing, cybersecurity, and rooting phones. Later, I learned a bit about graphic design on Adobe Suite and video-editing.
 - At age 18, I started Business Administration with a specialization in Finance at Comillas.
@@ -21,22 +25,26 @@ My journey starts at 13 years old when I received my first computer:
 - Now, I am a student at IE's School of Science and Technology. We always can learn something more ;D
 
 ## 💼 Professional Experience
-- Sci-tech student at IE School of Science and Technology. ![Company Logo](https://img.shields.io/badge/IE_Scitech-yellow?logo=IEBusinessSchool)
-- Ex-Strategy & Consulting Consultant at ![Company Logo](https://img.shields.io/badge/Accenture-purple?logo=Accenture)
-, developing complex SQL dashboards in Google Cloud Platform
-- Previously at ![Company Logo](https://img.shields.io/badge/PwC-orange?logo=PricewaterhouseCoopers)
+1. Sci-tech student at IE School of Science and Technology. ![Company Logo](https://img.shields.io/badge/IE_Scitech-yellow?logo=IEBusinessSchool)
+2. Ex-Strategy & Consulting Consultant at ![Company Logo](https://img.shields.io/badge/Accenture-purple?logo=Accenture), developing complex SQL dashboards in Google Cloud Platform
+3. Previously at ![Company Logo](https://img.shields.io/badge/PwC-orange?logo=PricewaterhouseCoopers)
 
 ## 🌱 I’m currently learning
 
-I'm always eager to expand my knowledge. Currently, I'm diving into the latest advancements in web development and exploring new tools and frameworks to enhance my skills.
+Data Architectures:![NiFi](https://img.shields.io/badge/-NiFi-lightgrey?logo=apachenifi) ![Kafka](https://img.shields.io/badge/-Kafka-black?logo=Apachekafka) ![Hadoop](https://img.shields.io/badge/-Hadoop-yellow?logo=Apachehadoop) ![Spark](https://img.shields.io/badge/-Spark-white?logo=Apachespark) 
+
+Visualization: ![Tableau](https://img.shields.io/badge/-Tableau-white?logo=Tableau) ![PowerBI](https://img.shields.io/badge/-PowerBI-grey?logo=PowerBI) 
+
+Unstructured Databases: 
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb)
+
 
 ## 🛠️ Skills
-Languages: ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=SQL)
+Languages: ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=SQL) ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python) ![R](https://img.shields.io/badge/-R-blue?logo=R)
+  
+Google Cloud Platform: ![BigQuery](https://img.shields.io/badge/-BigQuery-lightblue?logo=Google%20BigQuery) ![Looker](https://img.shields.io/badge/-Looker%20Studio-lightblue?logo=Looker) ![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-lightblue?logo=Google%20Cloud%20Storage)
 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)
-
-Google Cloud Platform: ![BigQuery](https://img.shields.io/badge/-BigQuery-blue?logo=Google%20BigQuery) ![Looker](https://img.shields.io/badge/-Looker%20Studio-blue?logo=Looker) ![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-blue?logo=Google%20Cloud%20Storage)
+Other tools I know:![MySQL](https://img.shields.io/badge/-MySQL-grey?logo=mysql) ![SQL Developer](https://img.shields.io/badge/-SQL_Developer-grey?logo=SQL_Developer) ![SQL Server](https://img.shields.io/badge/-SQL_Server-grey?logo=SQL_Server)
 
 ## 📫 Let's Connect
 
@@ -44,7 +52,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ignacio-a
 
 ## 🌐 Projects
 
-**Project 1: Madrid Electric Rental Bikes Analysis & Clustering**
+1. **Project 0:** Python practice
+2. **Project 1:** Madrid Electric Rental Bikes Analysis & Clustering
+3. **Project 2:** Developing a website through Open AI API, MrMentorAI.com
 
 
-Looking forward to connecting with fellow developers, enthusiasts, and anyone who shares similar interests!
+Looking forward to connecting with fellow data scientists, enthusiasts, and anyone who shares similar interests!
