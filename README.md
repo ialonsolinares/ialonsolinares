@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I am Ignacio </h1>
 
-## 👋 Hello there! General Kenobi!
+## 👋 Hello there!
 
 I'm Ignacio Alonso López-Linares, a consultant specializing in Data Analytics and AI. 
 I am currently based in Madrid, Spain. 
