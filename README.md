@@ -1,15 +1,11 @@
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQFZW4FCKQj3Qw/profile-displayphoto-shrink_200_200/0/1686959115904?e=1705536000&v=beta&t=q0fVzQUJrJe7i5602ZC4OC2QM2xhLfxDYIDEX9YK4kM" alt="Your Name" width="150" height="150" style="border-radius: 50%; overflow: hidden;">
-</p>
-
-
 <h1 align="center">Hi, I am Ignacio </h1>
 
 ## 👋 Hello there! General Kenobi!
 
 I'm Ignacio Alonso López-Linares, a consultant specializing in Data Analytics and AI. 
-I am currently based in Madrid, Spain. Welcome to my GitHub profile!
+I am currently based in Madrid, Spain. 
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
@@ -48,7 +44,7 @@ Google Cloud Platform: ![BigQuery](https://img.shields.io/badge/-BigQuery-lightb
 
 Other tools I know:![MySQL](https://img.shields.io/badge/-MySQL-grey?logo=mysql) ![SQL Developer](https://img.shields.io/badge/-SQL_Developer-grey?logo=SQL_Developer) ![SQL Server](https://img.shields.io/badge/-SQL_Server-grey?logo=SQL_Server)
 
-## 📫 Let's Connect
+## 📫 Reach me at
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ignacio-alonso-linares/). I'm always open to interesting conversations and collaborations.
 
