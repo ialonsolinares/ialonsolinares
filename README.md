@@ -13,9 +13,7 @@ I am passionate about bringing data and business together by creating innovative
 
 My journey starts at 13 years old when I received my first computer:
 - Initially, I became interested in pen-testing, cybersecurity, and rooting phones. Later, I learned a bit about graphic design on Adobe Suite and video-editing.
-- At age 18, I started Business Administration with a specialization in Finance at Comillas.
 - At age 21, at the University of Michigan and as an exchange student, I learned R and how to use data science and apply it to organizations to solve problems
-- That summer, I began working at PwC where I was involved in many financial due diligence processes.
 - Upon graduation, I won an award for the Best Data Science project, which discussed more efficient methods using clustering to organize bikes in Madrid's Bike Rental System, BiciMAD.
 - After ending my degree, I started at Accenture where I worked for media and telecom companies automating and deploying dashboards using Google Cloud Platform.
 - Now, I am a student at IE's School of Science and Technology. We always can learn something more ;D
@@ -23,7 +21,7 @@ My journey starts at 13 years old when I received my first computer:
 ## 💼 Professional Experience
 2023/2024 - Sci-tech student at IE School of Science and Technology. ![Company Logo](https://img.shields.io/badge/IE_Scitech-yellow?logo=IEBusinessSchool)
 
-2020/2023 - Ex-Strategy & Consulting Consultant at ![Company Logo](https://img.shields.io/badge/Accenture-purple?logo=Accenture), developing complex SQL dashboards in Google Cloud Platform
+2020/2023 - Strategy & Consulting Consultant at ![Company Logo](https://img.shields.io/badge/Accenture-purple?logo=Accenture), developing complex SQL dashboards in Google Cloud Platform
 
 2019 - Previously at ![Company Logo](https://img.shields.io/badge/PwC-orange?logo=PricewaterhouseCoopers)
 
