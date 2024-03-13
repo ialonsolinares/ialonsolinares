@@ -48,11 +48,5 @@ Other tools I know:![MySQL](https://img.shields.io/badge/-MySQL-grey?logo=mysql)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ignacio-alonso-linares/). I'm always open to interesting conversations and collaborations.
 
-## 🌐 Projects
-
-1. **Project 0:** Python practice
-2. **Project 1:** Madrid Electric Rental Bikes Analysis & Clustering
-3. **Project 2:** Developing a website through Open AI API, MrMentorAI.com
-
 
 Looking forward to connecting with fellow data scientists, enthusiasts, and anyone who shares similar interests!
