@@ -3,12 +3,7 @@
 
 ## 👋 Hello there!
 
-I'm Ignacio Alonso López-Linares, a consultant specializing in Data Analytics and AI. 
-I am currently based in Madrid, Spain. 
-Welcome to my GitHub profile!
-
-## 🚀 About Me
-
+I'm Ignacio Alonso López-Linares, a consultant specializing in Data Science and AI, currently based in Madrid, Spain. 
 I am passionate about bringing data and business together by creating innovative solutions. 
 
 ## 💼 Professional Experience
