@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi, I am Ignacio </h1>
+<h1 align="center"> Welcome stranger </h1>
 
 ## 👋 Hello there!
 
-I'm Ignacio Alonso López-Linares, a consultant specializing in Data Science and AI, currently based in Madrid, Spain. 
+I'm Ignacio Alonso, a consultant specializing in Data Science and AI, currently based in Madrid, Spain. 
 I am passionate about bringing data and business together by creating innovative solutions. 
 
 ## 💼 Professional Experience
