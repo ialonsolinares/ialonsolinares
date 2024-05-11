@@ -23,7 +23,7 @@ My journey starts at 13 years old when I received my first computer:
 
 2020/2023 - Strategy & Consulting Consultant at ![Company Logo](https://img.shields.io/badge/Accenture-purple?logo=Accenture), developing complex SQL dashboards in Google Cloud Platform
 
-2019 - Previously at ![Company Logo](https://img.shields.io/badge/PwC-orange?logo=PricewaterhouseCoopers)
+2019 - Previously at ![Company Logo](https://img.shields.io/badge/PwC-orange?logo=PricewaterhouseCoopers), conducting financial due diligence
 
 ## 🌱 I’m currently learning
 
