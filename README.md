@@ -25,15 +25,6 @@ My journey starts at 13 years old when I received my first computer:
 
 2019 - Previously at ![Company Logo](https://img.shields.io/badge/PwC-orange?logo=PricewaterhouseCoopers), conducting financial due diligence
 
-## 🌱 I’m currently learning
-
-Data Architectures:![NiFi](https://img.shields.io/badge/-NiFi-lightgrey?logo=apachenifi) ![Kafka](https://img.shields.io/badge/-Kafka-black?logo=Apachekafka) ![Hadoop](https://img.shields.io/badge/-Hadoop-yellow?logo=Apachehadoop) ![Spark](https://img.shields.io/badge/-Spark-white?logo=Apachespark) 
-
-Visualization: ![Tableau](https://img.shields.io/badge/-Tableau-white?logo=Tableau) ![PowerBI](https://img.shields.io/badge/-PowerBI-grey?logo=PowerBI) 
-
-Unstructured Databases: 
-![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb)
-
 
 ## 🛠️ Skills
 Languages: ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=SQL) ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python) ![R](https://img.shields.io/badge/-R-blue?logo=R)
