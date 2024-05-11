@@ -1,5 +1,5 @@
 
-<h1 align="center"> Welcome stranger </h1>
+<h1 align="center"> Welcome! :D </h1>
 
 ## 👋 Hello there!
 
