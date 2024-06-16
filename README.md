@@ -19,8 +19,6 @@ Languages: ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=SQL) ![Python
   
 Google Cloud Platform: ![BigQuery](https://img.shields.io/badge/-BigQuery-lightblue?logo=Google%20BigQuery) ![Looker](https://img.shields.io/badge/-Looker%20Studio-lightblue?logo=Looker) ![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-lightblue?logo=Google%20Cloud%20Storage)
 
-Other tools I know:![MySQL](https://img.shields.io/badge/-MySQL-grey?logo=mysql) ![SQL Developer](https://img.shields.io/badge/-SQL_Developer-grey?logo=SQL_Developer) ![SQL Server](https://img.shields.io/badge/-SQL_Server-grey?logo=SQL_Server)
-
 ## 📫 Reach me at
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ignacio-alonso-linares/). I'm always open to interesting conversations and collaborations.
