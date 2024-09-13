@@ -3,8 +3,8 @@
 
 ## 👋 Hello there!
 
-I'm Ignacio Alonso, a consultant specializing in Data Science and AI, currently based in Madrid, Spain. 
-I am passionate about bringing data and business together by creating innovative solutions. 
+I'm Ignacio Alonso, a consultant specializing in all things Data! I Currently based in Madrid, Spain. 
+I am passionate about bringing data and business together by creating innovative solutions - Love to learn about about Media, Finance and Tech.
 
 ## 💼 Professional Experience
 2023/2024 - Sci-tech student at IE School of Science and Technology. ![Company Logo](https://img.shields.io/badge/IE_Scitech-yellow?logo=IEBusinessSchool)
