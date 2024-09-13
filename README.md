@@ -24,4 +24,4 @@ Google Cloud Platform: ![BigQuery](https://img.shields.io/badge/-BigQuery-lightb
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ignacio-alonso-linares/). I'm always open to interesting conversations and collaborations.
 
 
-Looking forward to connecting with fellow data scientists, enthusiasts, and anyone who shares similar interests!
+Looking forward to connecting with fellow data scientists, TMT and Finance enthusiasts, and anyone who shares similar interests!
