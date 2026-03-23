@@ -7,7 +7,7 @@ I'm Ignacio Alonso, a consultant specializing in all things Data! I Currently ba
 I am passionate about bringing data and business together by creating innovative solutions - Love to learn about about Media, Finance and Tech.
 
 ## 💼 Professional Experience
-2024/2026 - International Growth Consultant at Google. ![Company Logo](https://img.shields.io/badge/Google?logo=Google)
+2024/2026 - International Growth Consultant at Google. ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 2023/2024 - Sci-tech student at IE School of Science and Technology. ![Company Logo](https://img.shields.io/badge/IE_Scitech-yellow?logo=IEBusinessSchool)
 
