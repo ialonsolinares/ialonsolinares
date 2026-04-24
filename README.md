@@ -3,7 +3,7 @@
 
 ## 👋 Hello there!
 
-I'm Ignacio Alonso, a consultant specializing in all things Data! I Currently based in Madrid, Spain. 
+I'm Ignacio Alonso, a consultant specializing in all things Data! I am currently based in Dublin, Ireland. 
 I am passionate about bringing data and business together by creating innovative solutions - Love to learn about about Media, Finance and Tech.
 
 ## 💼 Professional Experience
